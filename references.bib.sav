@@ -1,220 +1,5 @@
 % Encoding: UTF-8
-@article{ding2019,
-  author    = {Hongfa Ding and
-               Changgen Peng and
-               Youliang Tian and
-               Shuwen Xiang},
-  title     = {A risk adaptive access control model based on Markov for big data
-               in the cloud},
-  journal   = {International Journal of High Performance Computing and Networking},
-  volume    = {13},
-  number    = {4},
-  pages     = {464--475},
-  year      = {2019},
-  url       = {https://doi.org/10.1504/IJHPCN.2019.099269},
-  doi       = {10.1504/IJHPCN.2019.099269},
-}
 
-@article{dossantos2016,
- author = {dos Santos, Daniel Ricardo and Marinho, Roberto and Schmitt, Gustavo Roecker and Westphall, Carla Merkle and Westphall, Carlos Becker},
- title = {A Framework and Risk Assessment Approaches for Risk-based Access Control in the Cloud},
- journal = {J. Netw. Comput. Appl.},
- issue_date = {October 2016},
- volume = {74},
- number = {C},
- month = oct,
- year = {2016},
- issn = {1084-8045},
- pages = {86--97},
- numpages = {12},
- doi = {10.1016/j.jnca.2016.08.013},
- acmid = {3005796},
- publisher = {Academic Press Ltd.},
- address = {London, UK, UK},
- keywords = {Access control, Cloud computing, Risk},
-}
-
-@INPROCEEDINGS{downs1985, 
-author={D. D. {Downs} and J. R. {Rub} and K. C. {Kung} and C. S. {Jordan}}, 
-booktitle={1985 IEEE Symposium on Security and Privacy}, 
-title={Issues in Discretionary Access Control}, 
-year={1985}, 
-volume={}, 
-number={}, 
-pages={208-208}, 
-doi={10.1109/SP.1985.10014}, 
-ISSN={1540-7993}, 
-month={April},}
-
-@INPROCEEDINGS{mccune2006, 
-author={J. M. {McCune} and T. {Jaeger} and S. {Berger} and R. {Caceres} and R. {Sailer}}, 
-booktitle={2006 22nd Annual Computer Security Applications Conference (ACSAC'06)}, 
-title={Shamon: A System for Distributed Mandatory Access Control}, 
-year={2006}, 
-volume={}, 
-number={}, 
-pages={23-32}, 
-doi={10.1109/ACSAC.2006.47}, 
-ISSN={1063-9527}, 
-month={Dec},}
-
-@article{diazlopez2016,
- author = {Diaz-Lopez, Daniel and Dolera-Tormo, Gines and Gomez-Marmol, Felix and Martinez-Perez, Gregorio},
- title = {Dynamic Counter-measures for Risk-based Access Control Systems},
- journal = {Future Gener. Comput. Syst.},
- issue_date = {February 2016},
- volume = {55},
- number = {C},
- month = feb,
- year = {2016},
- issn = {0167-739X},
- pages = {321--335},
- numpages = {15},
- url = {https://doi.org/10.1016/j.future.2014.10.012},
- doi = {10.1016/j.future.2014.10.012},
- acmid = {2870028},
- publisher = {Elsevier Science Publishers B. V.},
- address = {Amsterdam, The Netherlands, The Netherlands},
- keywords = {Access control systems, Counter-measures, Genetic algorithms, ISMS, ISO 27001, Risk management},
-} 
-
-
-@inproceedings{armando2015b,
- author = {Armando, Alessandro and Bezzi, Michele and Cerbo, Francesco and Metoui, Nadia},
- title = {Balancing Trust and Risk in Access Control},
- booktitle = {Proceedings of the Confederated International Conferences on On the Move to Meaningful Internet Systems: OTM 2015 Conferences - Volume 9415},
- year = {2015},
- isbn = {978-3-319-26147-8},
- pages = {660--676},
- numpages = {17},
- url = {https://doi.org/10.1007/978-3-319-26148-5_45},
- doi = {10.1007/978-3-319-26148-5_45},
- acmid = {2966705},
- publisher = {Springer-Verlag},
- address = {Berlin, Heidelberg},
- keywords = {Privacy, Risk, Trust},
-} 
-
-@article{armando2015,
- author = {Armando, Alessandro and Bezzi, Michele and Metoui, Nadia and Sabetta, Antonino},
- title = {Risk-Based Privacy-Aware Information Disclosure},
- journal = {International Journal of Secure Software Engineering},
- issue_date = {April 2015},
- volume = {6},
- number = {2},
- month = apr,
- year = {2015},
- issn = {1947-3036},
- pages = {70--89},
- numpages = {20},
- url = {http://dx.doi.org/10.4018/IJSSE.2015040104},
- doi = {10.4018/IJSSE.2015040104},
- acmid = {2820357},
- publisher = {IGI Global},
- address = {Hershey, PA, USA},
- keywords = {Adult Data Set, Anonymization, Data, Risk, Risk-Aware Access Control Systems, UCI Machine Learning Repository},
-} 
-
-
-@article{khambhammettu2013,
- author = {Khambhammettu, Hemanth and Boulares, Sofiene and Adi, Kamel and Logrippo, Luigi},
- title = {A Framework for Risk Assessment in Access Control Systems},
- journal = {Computer Security},
- issue_date = {November, 2013},
- volume = {39},
- month = nov,
- year = {2013},
- issn = {0167-4048},
- pages = {86--103},
- numpages = {18},
- url = {http://dx.doi.org/10.1016/j.cose.2013.03.010},
- doi = {10.1016/j.cose.2013.03.010},
- acmid = {2622850},
- publisher = {Elsevier Advanced Technology Publications},
- address = {Oxford, UK, UK},
- keywords = {Access control, Impact, Risk, Security, Threat},
-} 
-@article{shaikh2012,
- author = {Shaikh, Riaz Ahmed and Adi, Kamel and Logrippo, Luigi},
- title = {Dynamic Risk-based Decision Methods for Access Control Systems},
- journal = {Computer Security},
- issue_date = {June, 2012},
- volume = {31},
- number = {4},
- month = jun,
- year = {2012},
- issn = {0167-4048},
- pages = {447--464},
- numpages = {18},
- url = {http://dx.doi.org/10.1016/j.cose.2012.02.006},
- doi = {10.1016/j.cose.2012.02.006},
- acmid = {2623000},
- publisher = {Elsevier Advanced Technology Publications},
- address = {Oxford, UK, UK},
- keywords = {Access control, Policy, Risk, Security, Trust},
-} 
-
-@Article{hui2015,
-  author  = {惠榛 and 李昊 and 张敏 and 冯登国},
-  title   = {面向医疗大数据的风险自适应的访问控制模型},
-  journal = {通信学报},
-  year    = {2015},
-  volume  = {36},
-  number  = {12},
-  pages   = {190-199.},
-  doi     = {},
-}
-
-@InProceedings{boulares2016,
-author="Boulares, Sofiene
-and Adi, Kamel
-and Logrippo, Luigi",
-editor="Cuppens, Fr{\'e}d{\'e}ric
-and Wang, Lingyu
-and Cuppens-Boulahia, Nora
-and Tawbi, Nadia
-and Garcia-Alfaro, Joaquin",
-title="Insider Threat Likelihood Assessment for Access Control Systems: Quantitative Approach",
-booktitle="Foundations and Practice of Security",
-year="2017",
-publisher="Springer International Publishing",
-address="Cham",
-pages="135--142",
-isbn="978-3-319-51966-1"
-}
-
-@InProceedings{krautsevich2014,
-author="Krautsevich, Leanid
-and Lazouski, Aliaksandr
-and Martinelli, Fabio
-and Yautsiukhin, Artsiom",
-editor="Bauer, Thomas
-and Gro{\ss}mann, J{\"u}rgen
-and Seehusen, Fredrik
-and St{\o}len, Ketil
-and Wendland, Marc-Florian",
-title="Towards Attribute-Based Access Control Policy Engineering Using Risk",
-booktitle="Risk Assessment and Risk-Driven Testing",
-year="2014",
-publisher="Springer International Publishing",
-address="Cham",
-pages="80--90",
-isbn="978-3-319-07076-6"
-}
-@inproceedings{wang2010,
-  author    = {Guojun Wang and
-               Qin Liu and
-               Jie Wu},
-  title     = {Hierarchical attribute-based encryption for fine-grained access control
-               in cloud storage services},
-  booktitle = {Proceedings of the 17th {ACM} Conference on Computer and Communications
-               Security, {CCS} 2010, Chicago, Illinois, USA, October 4-8, 2010},
-  pages     = {735--737},
-  year      = {2010},
-  url       = {https://doi.org/10.1145/1866307.1866414},
-  doi       = {10.1145/1866307.1866414},
-}
-@proceedings{DBLP:conf/c
 @Article{sandhu1994,
   author  = {R. S. {Sandhu} and P. {Samarati}},
   title   = {Access control: principle and practice},
@@ -579,21 +364,6 @@ isbn="978-3-319-07076-6"
   doi     = {10.1016/j.amc.2017.03.006},
 }
 
-@Article{wang2019,
-  author         = {Wang, Yan and Tian, Liqin and Chen, Zhenguo},
-  title          = {Game Analysis of Access Control Based on User Behavior Trust},
-  journal        = {Information},
-  year           = {2019},
-  volume         = {10},
-  number         = {4},
-  issn           = {2078-2489},
-  article-number = {132},
-  doi            = {10.3390/info10040132},
-  keywords       = {rank5},
-  timestamp      = {2019-04-28},
-}
-
-
 @InProceedings{kandala2011,
   author    = {Savith Kandala and Ravi Sandhu and Venkata Bhamidipati},
   title     = {An Attribute Based Framework for Risk-Adaptive Access Control Models},
@@ -604,6 +374,18 @@ isbn="978-3-319-07076-6"
   doi       = {10.1109/ARES.2011.41},
 }
 
+@InProceedings{bijon2012,
+  author    = {Bijon, Khalid Zaman and Krishnan, Ram and Sandhu, Ravi},
+  title     = {Risk-Aware RBAC Sessions},
+  booktitle = {Information Systems Security},
+  year      = {2012},
+  editor    = {Venkatakrishnan, Venkat and Goswami, Diganta},
+  pages     = {59--74},
+  address   = {Berlin, Heidelberg},
+  publisher = {Springer Berlin Heidelberg},
+  doi       = {10.1007/978-3-642-35130-3_5},
+  isbn      = {978-3-642-35130-3},
+}
 
 @InProceedings{diep2007,
   author    = {Nguyen Ngoc Diep and Le Xuan Hung and Yonil Zhung and Sungyoung Lee and Young-koo Lee and Heejo Lee},
@@ -700,9 +482,9 @@ isbn="978-3-319-07076-6"
   doi     = {10.1145/3168389},
 }
 
-@TechReport{mcgraw2009,
+@TechReport{McGraw,
   author      = {R. McGraw},
-  title       = {Risk-Adaptable Access Control ({RAdAC})},
+  title       = {Risk-Adaptable Access Control (RAdAC)},
   institution = {{NIST} Privilege (Access) Management Workshop},
   year        = {2009},
   timestamp   = {2019-06-12},
