@@ -6,9 +6,9 @@ plot(T,Y(:,1),'-xr');
 hold on
 plot(T,Y(:,2),'-sb');
 legend('p','q');
-ylabel('Probability');
-xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+ylabel('策略选择概率');
+xlabel('演化博弈次数(1*10^2)');
+%title('Evolutionary curves of the RaBACEGM');
 axis([0,10,0,1.1]);
 
 
@@ -20,9 +20,9 @@ plot(T,Y(:,1),'-xr');
 hold on
 plot(T,Y(:,2),'-sb');
 legend('p','q');
-ylabel('Probability');
-xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+ylabel('策略选择概率');
+xlabel('演化博弈次数(1*10^2)');
+%title('Evolutionary curves of the RaBACEGM');
 axis([0,10,0,1.1]);
 
 i=0.3;j=0.4;
@@ -33,9 +33,9 @@ plot(T,Y(:,1),'-xr');
 hold on
 plot(T,Y(:,2),'-sb');
 legend('p','q');
-ylabel('Probability');
-xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+ylabel('策略选择概率');
+xlabel('演化博弈次数(1*10^2)');
+%title('Evolutionary curves of the RaBACEGM');
 axis([0,10,0,1.1]);
 
 i=0.6;j=0.4;
@@ -46,9 +46,9 @@ plot(T,Y(:,1),'-xr');
 hold on
 plot(T,Y(:,2),'-sb');
 legend('p','q');
-ylabel('Probability');
-xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+ylabel('策略选择概率');
+xlabel('演化博弈次数(1*10^2)');
+%title('Evolutionary curves of the RaBACEGM');
 axis([0,10,0,1.1]);
 
 i=0.3;j=0.7;
@@ -59,9 +59,9 @@ plot(T,Y(:,1),'-xr');
 hold on
 plot(T,Y(:,2),'-sb');
 legend('p','q');
-ylabel('Probability');
-xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+ylabel('策略选择概率');
+xlabel('演化博弈次数(1*10^2)');
+%title('Evolutionary curves of the RaBACEGM');
 axis([0,10,0,1.1]);
 
 i=0.7;j=0.6;
@@ -72,7 +72,7 @@ plot(T,Y(:,1),'-xr');
 hold on
 plot(T,Y(:,2),'-sb');
 legend('p','q');
-ylabel('Probability');
-xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+ylabel('策略选择概率');
+xlabel('演化博弈次数(1*10^2)');
+%title('Evolutionary curves of the RaBACEGM');
 axis([0,10,0,1.1]);

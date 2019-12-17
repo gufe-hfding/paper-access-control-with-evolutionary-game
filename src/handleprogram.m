@@ -66,4 +66,4 @@ for i=0:0.1:1
 end
 ylabel('Probability of q');
 xlabel('Time');
-title('Evolutionary curves of the RaBACEGM');
+%title('Evolutionary curves of the RaBACEGM');

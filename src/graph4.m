@@ -13,9 +13,9 @@ for p=0%:0.1:1
         plot(T,Y(:,2),'-sb');
         hold on
         legend('{p_{Normal}}','{q_{Grant}}');
-        ylabel('Probability');
-        xlabel('Time');
-        title('Evolutionary curves of the RaBACEGM');
+        ylabel('策略选择概率');
+        xlabel('演化博弈次数(1*10^2)');
+        %title('Evolutionary curves of the RaBACEGM');
         axis([0,10,0,1.1]);
         %saveas(gcf, num2str(k), 'png');
     end
@@ -35,9 +35,9 @@ for p=0
         plot(T,Y(:,2),'-sb');
         hold on
         legend('{p_{Normal}}','{q_{Grant}}');
-        ylabel('Probability');
-        xlabel('Time');
-        title('Evolutionary curves of the RaBACEGM');
+        ylabel('策略选择概率');
+        xlabel('演化博弈次数(1*10^2)');
+        %title('Evolutionary curves of the RaBACEGM');
         axis([0,10,0,1.1]);
         %saveas(gcf, num2str(k), 'png');
     end
@@ -57,9 +57,9 @@ for p=0.1:0.1:1
         plot(T,Y(:,2),'-b');
         hold on
         legend('{p_{Normal}}','{q_{Grant}}');
-        ylabel('Probability');
-        xlabel('Time');
-        title('Evolutionary curves of the RaBACEGM');
+        ylabel('策略选择概率');
+        xlabel('演化博弈次数(1*10^2)');
+        %title('Evolutionary curves of the RaBACEGM');
         axis([0,10,0,1.1]);
         %saveas(gcf, num2str(k), 'png');
     end
@@ -80,9 +80,9 @@ for p=0.1:0.1:1
         %plot(T,Y(:,2),'-sb');
         hold on
         legend('{p_{Normal}}','{q_{Grant}}');
-        ylabel('Probability');
-        xlabel('Time');
-        title('Evolutionary curves of the RaBACEGM');
+        ylabel('策略选择概率');
+        xlabel('演化博弈次数(1*10^2)');
+        %title('Evolutionary curves of the RaBACEGM');
         axis([0,10,0,1.1]);
         %saveas(gcf, num2str(k), 'png');
     end
